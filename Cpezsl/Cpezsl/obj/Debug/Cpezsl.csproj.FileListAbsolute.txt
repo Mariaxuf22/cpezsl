@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Cpezsl\Cpezsl\obj\Debug\Cpezsl.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cpezsl\Cpezsl\obj\Debug\Cpezsl.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Cpezsl\Cpezsl\obj\Debug\Cpezsl.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cpezsl\Cpezsl\bin\Debug\Cpezsl.exe.config
+C:\Users\User\source\repos\Cpezsl\Cpezsl\bin\Debug\Cpezsl.exe
+C:\Users\User\source\repos\Cpezsl\Cpezsl\bin\Debug\Cpezsl.pdb
+C:\Users\User\source\repos\Cpezsl\Cpezsl\obj\Debug\Cpezsl.exe
+C:\Users\User\source\repos\Cpezsl\Cpezsl\obj\Debug\Cpezsl.pdb
